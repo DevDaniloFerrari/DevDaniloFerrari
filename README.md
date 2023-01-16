@@ -2,7 +2,7 @@
 
 I'm a Fullstack Software Developer:
 
-- 🔭 I’m currently working at WhiteTents
+- 🔭 I’m currently working at LeoMadeiras
 - 💬 You can ask me about C#, Angular 2+, AngularJs, ReactJS, React Native, .NET Core, .NET Framework, SQL and NoSql.
 - ☁️ Cloud: I have experience with AWS, Azure and Google Cloud.
 - 📫 How to reach me: daniloferrari2000@hotmail.com
