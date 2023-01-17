@@ -10,8 +10,6 @@ Fullstack developer with more than 6 years of experience. I had the opportunity 
 * ✉️  You can contact me at [devdaniloferrari@gmail.com](mailto:devdaniloferrari@gmail.com)
 * 🚀  I'm currently working on [LeoMadeiras](http://www.leomadeiras.com.br/)
 
-<a href="https://www.github.com/DevDaniloFerrari" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DevDaniloFerrari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
@@ -32,7 +30,11 @@ src="https://img.shields.io/github/followers/DevDaniloFerrari?logo=github&style=
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DevDaniloFerrari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/devdaniloferrari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@daniloferrari2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21029360" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
 ### Badges
+
+<a href="https://www.github.com/DevDaniloFerrari" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/DevDaniloFerrari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Support Me
 
