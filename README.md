@@ -1,10 +1,4 @@
-Hi 👋 My name is Danilo Ferrari
-===============================
-
-Fullstack Developer
--------------------
-
-Fullstack developer with more than 6 years of experience. I had the opportunity to participate in projects in companies from different segments (credit card, business intelligence, purchasing, banking, health, investments, pharmaceutical and e-commerce). In addition to freelance and volunteer projects. I enjoy participating in the open source community. I use agile methodologies like Scrum and Kanban. I host my projects on AWS, Azure and Google Cloud. Ability to participate in all stages of software development (requirements gathering, architecture, development and delivery).
+**Fullstack developer** with more than 6 years of experience. I had the opportunity to participate in projects in companies from different segments (credit card, business intelligence, purchasing, banking, health, investments, pharmaceutical and e-commerce). In addition to freelance and volunteer projects. I enjoy participating in the open source community. I use agile methodologies like Scrum and Kanban. I host my projects on AWS, Azure and Google Cloud. Ability to participate in all stages of software development (requirements gathering, architecture, development and delivery).
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [devdaniloferrari@gmail.com](mailto:devdaniloferrari@gmail.com)
