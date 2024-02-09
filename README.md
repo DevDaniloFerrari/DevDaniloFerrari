@@ -3,7 +3,7 @@
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [devdaniloferrari@gmail.com](mailto:devdaniloferrari@gmail.com)
 * 🚀  I'm currently working on [LeoMadeiras](http://www.leomadeiras.com.br/)
-* 💻 I have already contributed to more than 2 open-source projects.
+* 💻 I have already contributed to more than 3 open-source projects.
 
 ### Skills
 
